@@ -1,0 +1,11 @@
+﻿<Window x:Class="CSV_Mergerv3.about"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Height="303.297" Width="442.857" Icon="images/icon.ico" Title="About" ShowInTaskbar="False">
+    <Grid Background="#FFF5FCFE">
+        <Image HorizontalAlignment="Left" Height="78" Margin="32,12,0,0" VerticalAlignment="Top" Width="76" Source="images/icon.ico"/>
+        <Label Content="CSV Merging Tool" HorizontalAlignment="Left" Margin="14,90,0,0" VerticalAlignment="Top" Width="116" Foreground="#FFFD8C00" FontWeight="Bold" FontFamily="Arial Rounded MT Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="18,119,0,0" TextWrapping="Wrap" Text="Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. " VerticalAlignment="Top" Height="97" Width="393" Foreground="#FF302E2E"/>
+        <TextBlock HorizontalAlignment="Left" Margin="211,245,0,0" TextWrapping="Wrap" Text="Copyrights 2015 CSV Merge Tool ©" VerticalAlignment="Top" FontFamily="Arial Rounded MT Bold" Foreground="#FF7E7777"/>
+
+    </Grid>
+</Window>
